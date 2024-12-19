@@ -1,6 +1,8 @@
 Author: Kane Collins
-Email: kanecollins20@rcsi.com 
-Last modified: 12/9/24
+
+Email: kcollins@rcsi.com 
+
+Last modified: 19/12/24
 
 This folder contains instructions on running polygenic risk scores (PRSs). A test dataset is also included. 
 There are multiple different software tools that can run PRSs including PRSice2, lassosum, and LDpred. However, they all have similar performance (https://doi.org/10.1038/s42003-022-03812-z). PRSice is probably the easiest to use, so this is the one that I will go through in this turorial. (I may also upload scripts for other PRS software in time)
